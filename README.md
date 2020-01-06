@@ -1,5 +1,5 @@
 # ucore_lab
 <<<<<<< HEAD
-The lab report and code for the ucore os lab1——lab5
+The chit-chat of the lab report for the ucore lab1
 =======
 
